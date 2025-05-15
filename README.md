@@ -21,5 +21,5 @@ This system is ideal for developers looking for a solid Unreal Engine locomotion
 
 ### ⬇️ Download from this repository
 - [Download MyLocomotion1_Ground.mp4](./MyLocomotion1_Ground.mp4)
-- [Download MyLocomotion2_Air.mp4](Custom-Locomotion-System/MyLocomotion2_Air.mp4)
-- [Download MyLocomotion3_Parkour.mp4](Custom-Locomotion-System/MyLocomotion3_Parkour.mp4)
+- [Download MyLocomotion2_Air.mp4](./MyLocomotion2_Air.mp4)
+- [Download MyLocomotion3_Parkour.mp4](./MyLocomotion3_Parkour.mp4)
