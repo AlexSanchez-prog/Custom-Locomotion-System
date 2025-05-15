@@ -12,3 +12,14 @@ Main Features:
     🔧 Greater flexibility and modularity to adapt the system to various types of projects.
 
 This system is ideal for developers looking for a solid Unreal Engine locomotion base with the freedom to expand and customize it as needed.
+## 🎮 Demo Videos
+
+### 🔗 Watch on YouTube
+- [Video 1: GroundLocomotion](https://www.youtube.com/watch?v=sVqurjHl5O0)
+- [Video 2: AirlLocomotion](https://www.youtube.com/watch?v=9R6HDyoANKQ)
+- [Video 3: ParkouLocomotion](https://www.youtube.com/watch?v=uawhn6s5QB4)
+
+### ⬇️ Download from this repository
+- [Download MyLocomotion1_Ground.mp4](./MyLocomotion1_Ground.mp4)
+- [Download MyLocomotion2_Air.mp4](./MyLocomotion2_Air.mp4)
+- [Download MyLocomotion3_Parkour.mp4](./MyLocomotion3_Parkour.mp4)
